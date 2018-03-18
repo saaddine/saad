@@ -1,0 +1,45 @@
+h1{
+	color: red;
+	font-size: 40px;
+}
+#sd{
+
+	background-color: red;
+	font-style: italic;
+	color: blue;
+}
+.cls{
+	color: white;
+	background-color: black;
+	font-size: 50px;
+}#cc:hover{
+	color: pink;
+	font-style: italic;
+	font-size: 45px;
+}
+body{
+	background-color: green;
+}
+h2{width: 100%;}
+.bigbox{
+	height: 150px;
+	width: 20%;
+	display: inline-block;
+	margin-left: 50px;
+
+}
+.oo{
+
+	display: block;
+	border: 5px dashed red;
+	background-color: blue;
+
+}
+
+.big {
+	height: 150px;
+	width: 20%;
+	display: inline-block;
+	margin-bottom: 20px;
+
+}
